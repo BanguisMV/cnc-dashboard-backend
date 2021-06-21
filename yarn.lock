@@ -1260,7 +1260,7 @@
     apollo-server-testing "^2.21.1"
     ts-morph "^11.0.0"
 
-"@nestjs/mapped-types@0.4.1":
+"@nestjs/mapped-types@*", "@nestjs/mapped-types@0.4.1":
   version "0.4.1"
   resolved "https://registry.yarnpkg.com/@nestjs/mapped-types/-/mapped-types-0.4.1.tgz#e7fe038f0bdda7b8f858fa79ca8516b8f9069b1a"
   integrity sha512-JXrw2LMangSU3vnaXWXVX47GRG1FbbNh4aVBbidDjxT3zlghsoNQY6qyWtT001MCl8lJGo8I6i6+DurBRRxl/Q==
